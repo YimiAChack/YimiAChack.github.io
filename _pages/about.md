@@ -29,6 +29,8 @@ Honors
 
 Recent News
 ======
+\[January 2023\] Invited to serve as a **Program Committee** Member for **KDD 2023** and **IJCAI 2023**. 
+
 \[March 2022\] Invited to serve as a **Program Committee** Member for **KDD 2022**. 
 
 \[May 2021\] **Top 10** in **KDD CUP 2021**, OGB-LSC (PCQM4M) Track!
@@ -38,5 +40,3 @@ Recent News
 \[May 2021\] Paper  **Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting** is accepted at KDD 2021 \[[Paper](https://aaai.org/ojs/index.php/AAAI/article/view/5861)\]!
 
 \[January 2021\] Paper  **Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels** is accepted at WWW 2021 \[[Paper](https://aaai.org/ojs/index.php/AAAI/article/view/5861)\]!
-
-\[May 2020\] Paper  **Graph Structural-topic Neural Network** is accepted at KDD 2020 \[[Paper](https://aaai.org/ojs/index.php/AAAI/article/view/5861)\]!
