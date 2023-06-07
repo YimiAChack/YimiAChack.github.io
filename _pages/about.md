@@ -29,6 +29,8 @@ Honors
 
 Recent News
 ======
+\[March 2023\] Invited to serve as a **Program Committee** Member for **NeurIPS 2023**. 
+
 \[January 2023\] Invited to serve as a **Program Committee** Member for **KDD 2023** and **IJCAI 2023**. 
 
 \[March 2022\] Invited to serve as a **Program Committee** Member for **KDD 2022**. 
