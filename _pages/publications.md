@@ -7,7 +7,6 @@ author_profile: true
 
 You can also find my articles in [my Google Scholar](https://scholar.google.com/citations?user=283USTgAAAAJ&hl=zh-CN&oi=ao) and [DBLP](https://dblp.org/pid/251/9514.html). <br>
 
-# Conference Papers
 ## 2023
 * **A Comprehensive Survey on Deep Graph Representation Learning** <br>
 Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, **Qingqing Long**, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Xiao Luo, Ming Zhang. Under Review, 2023
@@ -20,6 +19,8 @@ Zheng Fang, Lingjun Xu, Guojie Song, **Qingqing Long**, Yingxue Zhang. <br>*In T
 * **Joint Optimization of Ad Ranking and Creative Selection** <br>
 Kaiyi Lin, Xiang Zhang, Pengjie Wang, **Qingqing Long**, Hongbo Deng, Jian Xu, Bo Zheng. *The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2022
 
+* **Deep Convolutional Neural Network based Medical Concept Normalization** \[[pdf](https://ieeexplore.ieee.org/document/9186351)\] <br>
+Guojie Song, **Qingqing Long**, Yi Luo, Yiming Wang, Yilun Jin. <br>In *IEEE Transactions on Big Data, 2022*.
 
 ## 2021
 
@@ -48,8 +49,4 @@ Junshan Wang, Ziyao Li, **Qingqing Long**, Weiyu Zhang, Guojie Song, Chuan Shi. 
 **Qingqing Long**, Yiming Wang, Lun Du, Guojie Song, Yilun Jin, Wei Lin. <br>In *The 28th ACM International Conference on Information and Knowledge Management (CIKM)*, 2019. **Best Research Paper Runner-up Award**. 
 
 
-# Journal Papers
-
-* **Deep Convolutional Neural Network based Medical Concept Normalization** \[[pdf](https://ieeexplore.ieee.org/document/9186351)\] <br>
-Guojie Song, **Qingqing Long**, Yi Luo, Yiming Wang, Yilun Jin. <br>In *IEEE Transactions on Big Data, 2020*.
 
