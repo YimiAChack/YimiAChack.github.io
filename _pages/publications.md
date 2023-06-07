@@ -8,6 +8,11 @@ author_profile: true
 You can also find my articles in [my Google Scholar](https://scholar.google.com/citations?user=283USTgAAAAJ&hl=zh-CN&oi=ao) and [DBLP](https://dblp.org/pid/251/9514.html). <br>
 
 # Conference Papers
+## 2023
+* **A Comprehensive Survey on Deep Graph Representation Learning** <br>
+Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, **Qingqing Long**, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Xiao Luo, Ming Zhang. Under Review, 2023
+
+
 ## 2022
 * **Polarized Graph Neural Networks** <br>
 Zheng Fang, Lingjun Xu, Guojie Song, **Qingqing Long**, Yingxue Zhang. <br>*In The Web Conference (TheWebConf, a.k.a. WWW)*, 2022
