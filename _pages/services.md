@@ -9,7 +9,7 @@ author_profile: true
 
 - Conference Program Committee Member (Reviewer): 
     - **2022**: KDD
-    - **2023**: KDD、IJCAI
+    - **2023**: KDD、IJCAI、NeurIPS
 
 - Journal Reviewer: 
     - **2022**: TKDD
