@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an algorithm engineer in Alibaba Group, responsible for Taobao's sponsored search algorithms. My research interests lie in machine learning and data mining, especially in **graph neural networks** and its applications. And I draw a [roadmap about my researches](https://yimiachack.github.io/files/research_roadmap.pdf).
 
-I obtained M.S degree in [Peking University](https://www.pku.edu.cn), and was fortunate to have [Prof. Guojie Song](https://gjsong-pku.cn) as my advisor. 
+I obtained M.S degree in [Peking University](https://www.pku.edu.cn), and was fortunate to have Prof. Guojie Song as my advisor. 
 
 You can contact me via qingqinglong \[at\] pku.edu.cn.
 
