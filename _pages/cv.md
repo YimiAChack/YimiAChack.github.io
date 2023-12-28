@@ -11,7 +11,8 @@ redirect_from:
 
 Work experience
 ======
-- Algorithm engineer, Alibaba Group, 2021.08-2022.05
+- Algorithm engineer. Alibaba Group. 2021.09-2023.05
+- Research assistant. Computer Network Information Center, Chinese Academy of Sciences. 2023.06-now
   
 Research Interests
 ======
