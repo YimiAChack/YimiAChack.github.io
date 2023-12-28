@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an algorithm engineer in Alibaba Group, responsible for Taobao's sponsored search algorithms. My research interests lie in machine learning and data mining, especially in **graph neural networks** and its applications. And I draw a [roadmap about my researches](https://yimiachack.github.io/files/research_roadmap.pdf).
+I am currently a research assistant at Computer Network Information Center, Chinese Academy of Sciences. Before this, I worked as an algorithm engineer at Alibaba Group, responsible for Taobao's sponsored search algorithms for about 2 years. My research interests lie in machine learning and data mining, especially in **graph neural networks** and its applications. And I draw a [roadmap about my researches](https://yimiachack.github.io/files/research_roadmap.pdf).
 
 I obtained M.S degree in [Peking University](https://www.pku.edu.cn), and was fortunate to have Prof. Guojie Song as my advisor. 
 
