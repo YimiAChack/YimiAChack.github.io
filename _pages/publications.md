@@ -11,7 +11,7 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 **Qingqing Long**, Zheng Fang, Chen Fang, Chong Chen, Pengfei Wang, Yuanchun Zhou.  <br>In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2024. 
 
 * **Inductive Graph Alignment Prompt: Bridging the Gap between Graph Pre-training and Inductive Fine-tuning From Spectral Perspective.** <br>
-Yuchen Yan, Peiyan Zhang, **Qingqing Long**, Zheng Fang. <br>In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2024. 
+Yuchen Yan, Peiyan Zhang, Qingqing Long, Zheng Fang. <br>In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2024. *Corresponding author*.
 
 ## 2023
 * **GeneCompass: Deciphering Universal Gene Regulatory Mechanisms with Knowledge-Informed Cross-Species Foundation Model** <br>
