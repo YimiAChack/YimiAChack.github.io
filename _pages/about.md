@@ -29,7 +29,7 @@ Honors
 
 Recent News
 ======
-\[Feb. 2024\] Invited to serve as a **Program Committee** Member for **MM 2024**!
+\[Feb. 2024\] Invited to serve as a **Program Committee** Member for **ICML / MM 2024**!
 
 \[January 2024\] Two papers accepted by WWW 2024!
 
