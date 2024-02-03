@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 - Conference Program Committee Member (Reviewer): 
-    - **2024**: IJCAI
-    - **2023**: KDD、IJCAI、NeurIPS、WWW
+    - **2024**: ICML / WWW / IJCAI / MM
+    - **2023**: KDD / IJCAI / NeurIPS / WWW
     - **2022**: KDD
     
 
