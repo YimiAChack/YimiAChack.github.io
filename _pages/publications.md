@@ -7,6 +7,10 @@ author_profile: true
 
 You can also find my articles in [my Google Scholar](https://scholar.google.com/citations?user=283USTgAAAAJ&hl=zh-CN&oi=ao) and [DBLP](https://dblp.org/pid/251/9514.html). <br>
 ## 2024
+* **A Survey of Data-efficient Graph Learning.** <br>
+Wei Ju, Siyu Yi, Yifan Wang, **Qingqing Long**, Junyu Luo, Zhiping Xiao, Ming Zhang.  <br>In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024.
+
+
 * **Unveiling Delay Effects in Traffic Forecasting: A Perspective from Spatial-Temporal Delay Differential Equations.** <br>
 **Qingqing Long**, Zheng Fang, Chen Fang, Chong Chen, Pengfei Wang, Yuanchun Zhou.  <br>In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2024. 
 
