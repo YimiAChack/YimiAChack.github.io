@@ -29,7 +29,9 @@ Honors
 
 Recent News
 ======
-\[Feb. 2024\] Invited to serve as a **Program Committee** Member for **ICML / MM 2024**!
+\[July. 2024\] Invited to serve as a **Program Committee** Member for **KDD 2025**!
+
+\[Feb. 2024\] Invited to serve as a **Program Committee** Member for **ICML / MM / NeurIPS 2024**!
 
 \[January 2024\] Two papers accepted by WWW 2024!
 
