@@ -7,6 +7,9 @@ author_profile: true
 
 You can also find my articles in [my Google Scholar](https://scholar.google.com/citations?user=283USTgAAAAJ&hl=zh-CN&oi=ao) and [DBLP](https://dblp.org/pid/251/9514.html). <br>
 ## 2024
+* **MOAT: Graph Prompting for 3D Molecular Graphs.** <br>
+**Qingqing Long**, Yuchen Yan, Wentao Cui, Meng Xiao, Zhihong Zhu, Wei Ju, Xuezhi Wang and Yuanchun Zhou. <br>In *The 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, 2024. 
+
 * **A Survey of Data-efficient Graph Learning.** <br>
 Wei Ju, Siyu Yi, Yifan Wang, **Qingqing Long**, Junyu Luo, Zhiping Xiao, Ming Zhang.  <br>In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024.
 
@@ -15,7 +18,7 @@ Wei Ju, Siyu Yi, Yifan Wang, **Qingqing Long**, Junyu Luo, Zhiping Xiao, Ming Zh
 **Qingqing Long**, Zheng Fang, Chen Fang, Chong Chen, Pengfei Wang, Yuanchun Zhou.  <br>In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2024. 
 
 * **Inductive Graph Alignment Prompt: Bridging the Gap between Graph Pre-training and Inductive Fine-tuning From Spectral Perspective.** <br>
-Yuchen Yan, Peiyan Zhang, **Qingqing Long** (Corresponding author), Zheng Fang. <br>In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2024.
+Yuchen Yan, Peiyan Zhang, Zheng Fang, **Qingqing Long** (Corresponding Author). <br>In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2024.
 
 ## 2023
 * **GeneCompass: Deciphering Universal Gene Regulatory Mechanisms with Knowledge-Informed Cross-Species Foundation Model** <br>
