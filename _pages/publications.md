@@ -22,6 +22,9 @@ Yuchen Yan, Peiyan Zhang, Zheng Fang, **Qingqing Long** (Corresponding Author). 
 * **Refining computational inference of gene regulatory networks: integrating knockout data within a multi-task framework.** <br>
 Wentao Cui, **Qingqing Long**, Meng Xiao, Xuezhi Wang, Guihai Feng, Xin Li, Pengfei Wang, Yuanchun Zhou. <br>In *Briefings in Bioinformatics (BIB)*, 2024.
 
+* **A comprehensive survey on deep graph representation learning.** <br>
+Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, **Qingqing Long**, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, Ming Zhang. <br>In *Neural Networks*, 2024.
+
 * **GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation.** <br>
 Guojiao Lin, Zhen Meng, Dongjie Wang, **Qingqing Long**, Yuanchun Zhou, Meng Xiao. <br>In *The 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, 2024. 
 
