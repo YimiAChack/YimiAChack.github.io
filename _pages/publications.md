@@ -13,12 +13,17 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 * **A Survey of Data-efficient Graph Learning.** <br>
 Wei Ju, Siyu Yi, Yifan Wang, **Qingqing Long**, Junyu Luo, Zhiping Xiao, Ming Zhang.  <br>In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024.
 
-
 * **Unveiling Delay Effects in Traffic Forecasting: A Perspective from Spatial-Temporal Delay Differential Equations.** <br>
 **Qingqing Long**, Zheng Fang, Chen Fang, Chong Chen, Pengfei Wang, Yuanchun Zhou.  <br>In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2024. 
 
 * **Inductive Graph Alignment Prompt: Bridging the Gap between Graph Pre-training and Inductive Fine-tuning From Spectral Perspective.** <br>
 Yuchen Yan, Peiyan Zhang, Zheng Fang, **Qingqing Long** (Corresponding Author). <br>In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2024.
+
+* **Refining computational inference of gene regulatory networks: integrating knockout data within a multi-task framework.** <br>
+Wentao Cui, **Qingqing Long**, Meng Xiao, Xuezhi Wang, Guihai Feng, Xin Li, Pengfei Wang, Yuanchun Zhou. <br>In *Briefings in Bioinformatics (BIB)*, 2024.
+
+* **GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation.** <br>
+Guojiao Lin, Zhen Meng, Dongjie Wang, **Qingqing Long**, Yuanchun Zhou, Meng Xiao. <br>In *The 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, 2024. 
 
 ## 2023
 * **GeneCompass: Deciphering Universal Gene Regulatory Mechanisms with Knowledge-Informed Cross-Species Foundation Model** <br>
