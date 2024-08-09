@@ -13,9 +13,6 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 * **Inductive Graph Alignment Prompt: Bridging the Gap between Graph Pre-training and Inductive Fine-tuning From Spectral Perspective.** <br>
 Yuchen Yan, Peiyan Zhang, Zheng Fang, **Qingqing Long** (Corresponding Author). <br>In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2024.
 
-* **MOAT: Graph Prompting for 3D Molecular Graphs.** <br>
-**Qingqing Long**, Yuchen Yan, Wentao Cui, Meng Xiao, Zhihong Zhu, Wei Ju, Xuezhi Wang and Yuanchun Zhou. <br>In *The 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, 2024. 
-
 * **A Survey of Data-efficient Graph Learning.** <br>
 Wei Ju, Siyu Yi, Yifan Wang, **Qingqing Long**, Junyu Luo, Zhiping Xiao, Ming Zhang.  <br>In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024.
 
@@ -31,7 +28,7 @@ Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, **Qingqing Long**, Ziyue Qiao, Yifang 
 * **GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation.** <br>
 Guojiao Lin, Zhen Meng, Dongjie Wang, **Qingqing Long**, Yuanchun Zhou, Meng Xiao. <br>In *The 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, 2024.
 
-* **HMultivariate Cooperative Game for Image-Report Pairs: Hierarchical Semantic Alignment for Medical Report Generation.** <br>
+* **Multivariate Cooperative Game for Image-Report Pairs: Hierarchical Semantic Alignment for Medical Report Generation.** <br>
 Zhihong Zhu, Xuxin Cheng, Yunyan Zhang, Zhaorun Chen, **Qingqing Long**, Hongxiang Li, Zhiqi Huang, Xian Wu, Yefeng Zheng. <br>In *The 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2024.
 
 * **How do Large Language Models understand Genes and Cells.** <br>
