@@ -31,6 +31,9 @@ Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, **Qingqing Long**, Ziyue Qiao, Yifang 
 * **GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation.** <br>
 Guojiao Lin, Zhen Meng, Dongjie Wang, **Qingqing Long**, Yuanchun Zhou, Meng Xiao. <br>In *The 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, 2024.
 
+* **HMultivariate Cooperative Game for Image-Report Pairs: Hierarchical Semantic Alignment for Medical Report Generation.** <br>
+Zhihong Zhu, Xuxin Cheng, Yunyan Zhang, Zhaorun Chen, **Qingqing Long**, Hongxiang Li, Zhiqi Huang, Xian Wu, Yefeng Zheng. <br>In *The 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2024.
+
 * **How do Large Language Models understand Genes and Cells.** <br>
 Chen Fang, Yidong Wang, Yunze Song, **Qingqing Long**, Wang Lu, Linghui Chen, Guihai Feng, Yuanchun Zhou, Xin Li. <br>In *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2024.
 
