@@ -31,6 +31,10 @@ Guojiao Lin, Zhen Meng, Dongjie Wang, **Qingqing Long**, Yuanchun Zhou, Meng Xia
 * **Multivariate Cooperative Game for Image-Report Pairs: Hierarchical Semantic Alignment for Medical Report Generation.** <br>
 Zhihong Zhu, Xuxin Cheng, Yunyan Zhang, Zhaorun Chen, **Qingqing Long**, Hongxiang Li, Zhiqi Huang, Xian Wu, Yefeng Zheng. <br>In *The 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2024.
 
+* **Comprehensive metapath-based heterogeneous graph transformer for gene-disease association prediction.** <br>
+Wentao Cui, Shoubo Li, Chen Fang, **Qingqing Long**, Chenrui Wang, Xuezhi Wang, and Yuanchun Zhou. <br>In *IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)*, 2024.
+
+
 * **How do Large Language Models understand Genes and Cells.** <br>
 Chen Fang, Yidong Wang, Yunze Song, **Qingqing Long**, Wang Lu, Linghui Chen, Guihai Feng, Yuanchun Zhou, Xin Li. <br>In *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2024.
 
