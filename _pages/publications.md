@@ -16,6 +16,9 @@ Yuchen Yan, Peiyan Zhang, Zheng Fang, **Qingqing Long** (Corresponding Author). 
 * **A Survey of Data-efficient Graph Learning.** <br>
 Wei Ju, Siyu Yi, Yifan Wang, **Qingqing Long**, Junyu Luo, Zhiping Xiao, Ming Zhang.  <br>In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024.
 
+* **MOAT: Graph Prompting for 3D Molecular Graphs.** <br>
+**Qingqing Long**, Yuchen Yan, Wentao Cui, Wei Ju, Zhihong Zhu, Yuanchun Zhou, Xuezhi Wang, Meng Xiao. <br>In *The 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, 2024.
+
 * **Refining computational inference of gene regulatory networks: integrating knockout data within a multi-task framework.** <br>
 Wentao Cui, **Qingqing Long**, Meng Xiao, Xuezhi Wang, Guihai Feng, Xin Li, Yuanchun Zhou. <br>In *Briefings in Bioinformatics (BIB)*, 2024.
 
