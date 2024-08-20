@@ -25,14 +25,14 @@ Wentao Cui, **Qingqing Long**, Meng Xiao, Xuezhi Wang, Guihai Feng, Xin Li, Yuan
 * **PIXEL: Prompt-based Zero-shot Hashing via Visual and Textual Semantic Alignment.** <br>
 Zeyu Dong, **Qingqing Long**, Yihang Zhou, Xiao Luo, Zhihong Zhu, Yidong Wang, Pengyang Wang, Yuanchun Zhou.  <br>In *The 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, 2024.
 
-* **A comprehensive survey on deep graph representation learning.** <br>
-Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, **Qingqing Long**, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, Ming Zhang. <br>In *Neural Networks*, 2024.
-
 * **Learning Knowledge-diverse Experts for Long-tailed Graph Classification.** <br>
 Zengyang Mao, Wei Ju, Siyu Yi, Yifan Wang, **Qingqing Long**, Nan Yin, Xinwang Liu, Ming Zhang. <br>In *Transactions on Knowledge Discovery from Data (TKDD)*, 2024.
 
 * **GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation.** <br>
 Guojiao Lin, Zhen Meng, Dongjie Wang, **Qingqing Long**, Yuanchun Zhou, Meng Xiao. <br>In *The 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, 2024.
+
+* **A comprehensive survey on deep graph representation learning.** <br>
+Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, **Qingqing Long**, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, Ming Zhang. <br>In *Neural Networks*, 2024.
 
 * **Multivariate Cooperative Game for Image-Report Pairs: Hierarchical Semantic Alignment for Medical Report Generation.** <br>
 Zhihong Zhu, Xuxin Cheng, Yunyan Zhang, Zhaorun Chen, **Qingqing Long**, Hongxiang Li, Zhiqi Huang, Xian Wu, Yefeng Zheng. <br>In *The 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2024.
