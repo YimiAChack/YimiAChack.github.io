@@ -43,6 +43,8 @@ Wentao Cui, Shoubo Li, Chen Fang, **Qingqing Long**, Chenrui Wang, Xuezhi Wang, 
 * **How do Large Language Models understand Genes and Cells.** <br>
 Chen Fang, Yidong Wang, Yunze Song, **Qingqing Long**, Wang Lu, Linghui Chen, Guihai Feng, Yuanchun Zhou, Xin Li. <br>In *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2024.
 
+* **AMPCL: Adaptive Meta-Path Selection and Contrastive Learning for miRNA-Disease Prediction.** <br>
+Wentao Cui, Chuan Hu, Chen Fang, **Qingqing Long**, Jiahao Zhang, Xuezhi Wang, Yuanchun Zhou.  <br>In *31st International Conference on Neural Information Processing (ICNOIP)*, 2024.
 
 
 ## 2023
