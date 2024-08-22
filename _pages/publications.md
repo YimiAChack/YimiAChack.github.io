@@ -47,10 +47,6 @@ Chen Fang, Yidong Wang, Yunze Song, **Qingqing Long**, Wang Lu, Linghui Chen, Gu
 Wentao Cui, Chuan Hu, Chen Fang, **Qingqing Long**, Jiahao Zhang, Xuezhi Wang, Yuanchun Zhou.  <br>In *31st International Conference on Neural Information Processing (ICNOIP)*, 2024.
 
 
-## 2023
-* **GeneCompass: Deciphering Universal Gene Regulatory Mechanisms with Knowledge-Informed Cross-Species Foundation Model** <br>
-Xiaodong Yang, Guole Liu, Guihai Feng, Dechao Bu, Pengfei Wang, Jie Jiang, Shubai Chen, Qinmeng Yang, Yiyang Zhang, Zhenpeng Man, Zhongming Liang, Zichen Wang, Yaning Li, Zheng Li, Yana Liu, Yao Tian, Ao Li, Jingxi Dong, Zhilong Hu, Chen Fang, Hefan Miao, Lina Cui, Zixu Deng, Haiping Jiang, Wentao Cui, Jiahao Zhang, Zhaohui Yang, Handong Li, Xingjian He, Liqun Zhong, Jiaheng Zhou, Zijian Wang, Qingqing Long, et al. bioRxiv, 2023
-
 ## 2022
 * **Polarized Graph Neural Networks** <br>
 Zheng Fang, Lingjun Xu, Guojie Song, **Qingqing Long**, Yingxue Zhang. <br>*In The Web Conference (TheWebConf, a.k.a. WWW)*, 2022
