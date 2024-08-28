@@ -77,7 +77,7 @@ Feng Li, Bencheng Yan, **Qingqing Long**, Pengjie Wang, Wei Lin, Jian Xu, Bo Zhe
 **Qingqing Long**, Yilun Jin, Guojie Song, Yi Li, Wei Lin. <br>In *The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2020
 
 * **Learning Node Representations from Noisy Graph Structures** <br>
-Junshan Wang, Ziyao Li, **Qingqing Long**, Weiyu Zhang, Guojie Song, Chuan Shi. <br>In *ICDM*, 2020
+Junshan Wang, Ziyao Li, **Qingqing Long**, Weiyu Zhang, Guojie Song, Chuan Shi. <br>In * IEEE International Conference on Data Mining (ICDM)*, 2020
 
 ## 2019
 * **Hierarchical Community Structure Preserving Network Embedding: A Subspace Approach** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3357384.3357947)\]\[[code](https://github.com/YimiAChack/SpaceNE)\] <br>
