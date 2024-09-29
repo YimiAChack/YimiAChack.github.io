@@ -13,17 +13,14 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 * **Inductive Graph Alignment Prompt: Bridging the Gap between Graph Pre-training and Inductive Fine-tuning From Spectral Perspective.** <br>
 Yuchen Yan, Peiyan Zhang, Zheng Fang, **Qingqing Long** (Corresponding Author). <br>In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2024.
 
-* **A Survey of Data-efficient Graph Learning.** <br>
-Wei Ju, Siyu Yi, Yifan Wang, **Qingqing Long**, Junyu Luo, Zhiping Xiao, Ming Zhang.  <br>In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024.
-
 * **MOAT: Graph Prompting for 3D Molecular Graphs.** <br>
 **Qingqing Long**, Yuchen Yan, Wentao Cui, Wei Ju, Zhihong Zhu, Yuanchun Zhou, Xuezhi Wang, Meng Xiao. <br>In *The 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, 2024.
 
 * **GeneCompass: Deciphering Universal Gene Regulatory Mechanisms with Knowledge-Informed Cross-Species Foundation Model.** <be>
-Xiaodong Yang, Guole Liu, Guihai Feng, Dechao Bu, Pengfei Wang, Jie Jiang, Shubai Chen, Qinmeng Yang, Yiyang Zhang, Zhenpeng Man, Zhongming Liang, Zichen Wang, Yaning Li, Zheng Li, Yana Liu, Yao Tian, Ao Li, Jingxi Dong, Zhilong Hu, Chen Fang, Hefan Miao, Lina Cui, Zixu Deng, Haiping Jiang, Wentao Cui, Jiahao Zhang, Zhaohui Yang, Handong Li, Xingjian He, Liqun Zhong, Jiaheng Zhou, Zijian Wang, **Qingqing Long**, Ping Xu, X-Compass Consortium, Hongmei Wang, Zhen Meng, Xuezhi Wang, Yangang Wang, Yong Wang, Shihua Zhang, Jingtao Guo, Yi Zhao, Yuanchun Zhou, Fei Li, Jing Liu, Yiqiang Chen, Ge Yang, Xin Li. <br>In *Cell Research*, 2024.
+Xiaodong Yang, Guole Liu, Guihai Feng, Dechao Bu, Jie Jiang, Shubai Chen, Qinmeng Yang, Yiyang Zhang, Zhenpeng Man, Zhongming Liang, Zichen Wang, Yaning Li, Zheng Li, Yana Liu, Yao Tian, Ao Li, Jingxi Dong, Zhilong Hu, Chen Fang, Hefan Miao, Lina Cui, Zixu Deng, Haiping Jiang, Wentao Cui, Jiahao Zhang, Zhaohui Yang, Handong Li, Xingjian He, Liqun Zhong, Jiaheng Zhou, Zijian Wang, **Qingqing Long**, Ping Xu, X-Compass Consortium, Hongmei Wang, Zhen Meng, Xuezhi Wang, Yangang Wang, Yong Wang, Shihua Zhang, Jingtao Guo, Yi Zhao, Yuanchun Zhou, Fei Li, Jing Liu, Yiqiang Chen, Ge Yang, Xin Li. <br>In *Cell Research*, 2024.
 
-* **Refining computational inference of gene regulatory networks: integrating knockout data within a multi-task framework.** <br>
-Wentao Cui, **Qingqing Long**, Meng Xiao, Xuezhi Wang, Guihai Feng, Xin Li, Yuanchun Zhou. <br>In *Briefings in Bioinformatics (BIB)*, 2024.
+* **A Survey of Data-efficient Graph Learning.** <br>
+Wei Ju, Siyu Yi, Yifan Wang, **Qingqing Long**, Junyu Luo, Zhiping Xiao, Ming Zhang.  <br>In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024.
 
 * **PIXEL: Prompt-based Zero-shot Hashing via Visual and Textual Semantic Alignment.** <br>
 Zeyu Dong, **Qingqing Long**, Yihang Zhou, Xiao Luo, Zhihong Zhu, Yidong Wang, Pengyang Wang, Yuanchun Zhou.  <br>In *The 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, 2024.
@@ -37,11 +34,14 @@ Guojiao Lin, Zhen Meng, Dongjie Wang, **Qingqing Long**, Yuanchun Zhou, Meng Xia
 * **A comprehensive survey on deep graph representation learning.** <br>
 Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, **Qingqing Long**, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, Yifan Wang, Xiao Luo, Ming Zhang. <br>In *Neural Networks*, 2024.
 
-* **Multivariate Cooperative Game for Image-Report Pairs: Hierarchical Semantic Alignment for Medical Report Generation.** <br>
-Zhihong Zhu, Xuxin Cheng, Yunyan Zhang, Zhaorun Chen, **Qingqing Long**, Hongxiang Li, Zhiqi Huang, Xian Wu, Yefeng Zheng. <br>In *The 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2024.
+* **Refining computational inference of gene regulatory networks: integrating knockout data within a multi-task framework.** <br>
+Wentao Cui, **Qingqing Long**, Meng Xiao, Xuezhi Wang, Guihai Feng, Xin Li, Yuanchun Zhou. <br>In *Briefings in Bioinformatics (BIB)*, 2024.
 
 * **Comprehensive Metapath-based Heterogeneous Graph Transformer for Gene-Disease  Association Prediction.** <br>
 Wentao Cui, Shoubo Li, Chen Fang, **Qingqing Long**, Chenrui Wang, Xuezhi Wang, and Yuanchun Zhou. <br>In *IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)*, 2024.
+
+* **Multivariate Cooperative Game for Image-Report Pairs: Hierarchical Semantic Alignment for Medical Report Generation.** <br>
+Zhihong Zhu, Xuxin Cheng, Yunyan Zhang, Zhaorun Chen, **Qingqing Long**, Hongxiang Li, Zhiqi Huang, Xian Wu, Yefeng Zheng. <br>In *The 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2024.
 
 * **How do Large Language Models understand Genes and Cells.** <br>
 Chen Fang, Yidong Wang, Yunze Song, **Qingqing Long**, Wang Lu, Linghui Chen, Guihai Feng, Yuanchun Zhou, Xin Li. <br>In *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2024.
