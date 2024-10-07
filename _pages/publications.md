@@ -49,6 +49,8 @@ Chen Fang, Yidong Wang, Yunze Song, **Qingqing Long**, Wang Lu, Linghui Chen, Gu
 * **AMPCL: Adaptive Meta-Path Selection and Contrastive Learning for miRNA-Disease Prediction.** <br>
 Wentao Cui, Chuan Hu, Chen Fang, **Qingqing Long**, Jiahao Zhang, Xuezhi Wang, Yuanchun Zhou.  <br>In *31st International Conference on Neural Information Processing (ICNOIP)*, 2024.
 
+* **Hierarchical Graph Transformer with Contrastive Learning for Gene Regulatory Network Inference.** <br>
+Wentao Cui, **Qingqing Long**, Wenhao Liu, Chen Fang, Xuezhi Wang, Yuanchun Zhou.  <br>In *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2024.
 
 ## 2022
 * **Polarized Graph Neural Networks** <br>
