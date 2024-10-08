@@ -23,7 +23,7 @@ Xiaodong Yang, Guole Liu, Guihai Feng, Dechao Bu, Jie Jiang, Shubai Chen, Qinmen
 Wei Ju, Siyu Yi, Yifan Wang, **Qingqing Long**, Junyu Luo, Zhiping Xiao, Ming Zhang.  <br>In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024.
 
 * **scReader: Prompting Large Language Models to Interpret scRNA-seq Data.** <br>
-Cong Li, **Qingqing Long**, Yuanchun Zhou, Meng Xiao. <br>In *IEEE International Conference on Data Mining (ICDM) Workshop on Data-Centric AI (DCAI)*, 2024. 
+Cong Li, **Qingqing Long**, Yuanchun Zhou, Meng Xiao. <br>In *Workshop on Data-Centric AI (DCAI) at IEEE International Conference on Data Mining (ICDM)*, 2024. 
 
 * **PIXEL: Prompt-based Zero-shot Hashing via Visual and Textual Semantic Alignment.** <br>
 Zeyu Dong, **Qingqing Long**, Yihang Zhou, Xiao Luo, Zhihong Zhu, Yidong Wang, Pengyang Wang, Yuanchun Zhou.  <br>In *The 33rd ACM International Conference on Information and Knowledge Management (CIKM)*, 2024.
