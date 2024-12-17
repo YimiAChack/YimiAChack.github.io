@@ -52,9 +52,6 @@ Zhihong Zhu, Xuxin Cheng, Yunyan Zhang, Zhaorun Chen, **Qingqing Long**, Hongxia
 * **How do Large Language Models understand Genes and Cells.** <br>
 Chen Fang, Yidong Wang, Yunze Song, **Qingqing Long**, Wang Lu, Linghui Chen, Guihai Feng, Yuanchun Zhou, Xin Li. <br>In *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2024.
 
-* **AMPCL: Adaptive Meta-Path Selection and Contrastive Learning for miRNA-Disease Prediction.** <br>
-Wentao Cui, Chuan Hu, Chen Fang, **Qingqing Long**, Jiahao Zhang, Xuezhi Wang, Yuanchun Zhou.  <br>In *31st International Conference on Neural Information Processing (ICNOIP)*, 2024.
-
 * **Hierarchical Graph Transformer with Contrastive Learning for Gene Regulatory Network Inference.** <br>
 Wentao Cui, **Qingqing Long**, Wenhao Liu, Chen Fang, Xuezhi Wang, Yuanchun Zhou.  <br>In *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2024.
 
